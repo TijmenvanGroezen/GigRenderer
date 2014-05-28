@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="cling-core-2.0-alpha3-sources">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/cling-distribution-2-2.0-alpha3/core/cling-core-2.0-alpha3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cling-distribution-2-2.0-alpha3/core/seamless-http-1.0-alpha3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cling-distribution-2-2.0-alpha3/core/seamless-util-1.0-alpha3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cling-distribution-2-2.0-alpha3/core/seamless-xml-1.0-alpha3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cling-distribution-2-2.0-alpha3/cling-mediarenderer-2.0-alpha3-standalone.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cling-distribution-2-2.0-alpha3/cling-workbench-2.0-alpha3-standalone.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/cling-distribution-2-2.0-alpha3/core/cling-core-2.0-alpha3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/cling-distribution-2-2.0-alpha3/cling-mediarenderer-2.0-alpha3-standalone.jar!/src" />
+      <root url="jar://$USER_HOME$/Downloads/cling-distribution-2-2.0-alpha3/cling-workbench-2.0-alpha3-standalone.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
